@@ -3,6 +3,7 @@ Tags: twitter, tweet, twitpic, image, expand, expander
 Contributors: Jackson Laycock
 Requires at least: 2.6
 Tested up to: 2.9.1
+Stable tag: 1.1
 
 Twitpic Expander scans posts for twitpic URL's and automatically expands them and shows an image.  
 
