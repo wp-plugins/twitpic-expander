@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Twitpic Expander
-Plugin URI: http://www.jacksonlaycock.com/
+Plugin URI: http://wordpress.org/support/topic/304051
 Description: Scans posts for twitpic URL's and automatically expands them and shows an image.  
 Version: 1.1
 Author: Jackson Laycock
